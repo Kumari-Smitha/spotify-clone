@@ -1,3 +1,17 @@
+Spotify-Clone
+Scroll down to bottom to play the song.
+![image](https://user-images.githubusercontent.com/85095475/153233703-cd247e7b-ba7c-4742-b33b-c9a1dc4958f5.png)
+![image](https://user-images.githubusercontent.com/85095475/153233773-57194d79-975a-4f18-9be3-72c8754023ef.png)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
